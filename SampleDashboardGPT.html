@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Dashboard</title>
+    <style>
+        body {
+            font-family: 'poppins';
+            margin: 0;
+            padding: 0;
+        }
+        #container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            background-color: #f7f7f7;
+        }
+        #bus-info {
+            background-color: #4CAF50;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        #table-container {
+            flex-grow: 1;
+            display: flex;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            overflow: hidden;
+        }
+        #table {
+            flex-basis: 30%;
+            background-color: #ffffff;
+            padding: 20px;
+            border-right: 1px solid #dddddd;
+            border-bottom-left-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: auto;
+        }
+        #map {
+            flex-grow: 1;
+            background-color: #ffffff;
+            padding: 20px;
+            border-bottom-right-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #dddddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        iframe {
+            height: 300px;
+            width: 600px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="container">
+    <div id="bus-info">
+        <h2>Bus Information</h2>
+        <p>Driver: John Doe</p>
+        <p>Bus Registration: ABC123</p>
+        <!-- Add more bus info as needed -->
+    </div>
+    <div id="table-container">
+        <div id="table">
+            <h2>Bus Stops</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Serial Number</th>
+                        <th>Bus Stops</th>
+                        <th>Timing 1</th>
+                        <th>Timing 2</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Stop 1</td>
+                        <td>10:00 AM</td>
+                        <td>10:15 AM</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Stop 1</td>
+                        <td>10:00 AM</td>
+                        <td>10:15 AM</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Stop 1</td>
+                        <td>10:00 AM</td>
+                        <td>10:15 AM</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Stop 1</td>
+                        <td>10:00 AM</td>
+                        <td>10:15 AM</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Stop 1</td>
+                        <td>10:00 AM</td>
+                        <td>10:15 AM</td>
+                    </tr>
+                    <!-- Add more rows for other stops -->
+                </tbody>
+            </table>
+        </div>
+        <div id="map">
+            <h2>Bus Route Map</h2>
+            <iframe src="https://www.google.com/maps/d/embed?mid=1cheNSd0uLbYs33nQsJL4j1YRhMsvwpI&ehbc=2E312F&noprof=1" frameborder="0"></iframe>
+            <!-- Insert map here, you can use Google Maps or any other mapping service -->
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
