@@ -1,0 +1,2 @@
+MAKE SURE TO KEEP ALL THE FILES IN THE SAME FOLDER
+RUN 'index.html' in browser
