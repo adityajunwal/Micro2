@@ -1,0 +1,23 @@
+{
+    "busNumber": 14,
+    "driverName": "DRIVER14",
+    "registrationNumber": "MP09KL2345",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "SCHEME NO 78", "timing1": "06:55", "timing2": "08:45" },
+      { "serialNumber": 2, "busStop": "SCHEME NO 54", "timing1": "07:00", "timing2": "08:50" },
+      { "serialNumber": 3, "busStop": "SAYAJI HOTEL", "timing1": "07:05", "timing2": "08:55" },
+      { "serialNumber": 4, "busStop": "BHAMORI PLAZA", "timing1": "07:10", "timing2": "09:00" },
+      { "serialNumber": 5, "busStop": "ANOOP TALKIES", "timing1": "07:15", "timing2": "09:05" },
+      { "serialNumber": 6, "busStop": "PATNIPURA", "timing1": "07:20", "timing2": "09:10" },
+      { "serialNumber": 7, "busStop": "MALWA MILL", "timing1": "07:25", "timing2": "09:15" },
+      { "serialNumber": 8, "busStop": "RANISATI GATE", "timing1": "07:25", "timing2": "09:15" },
+      { "serialNumber": 9, "busStop": "HIGH COURT SQUARE", "timing1": "07:30", "timing2": "09:20" },
+      { "serialNumber": 10, "busStop": "PALASIA", "timing1": "07:40", "timing2": "09:30" },
+      { "serialNumber": 11, "busStop": "GEETA BHAWAN SQUARE", "timing1": "07:45", "timing2": "09:35" },
+      { "serialNumber": 12, "busStop": "PIPLIYAHANA SQUARE", "timing1": "07:55", "timing2": "09:45" },
+      { "serialNumber": 13, "busStop": "BICHOLI MARDANA", "timing1": "08:00", "timing2": "09:50" },
+      { "serialNumber": 14, "busStop": "SAGE UNIVERSITY", "timing1": "08:10", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus14"
+  }
+  

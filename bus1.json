@@ -1,0 +1,98 @@
+{
+  "busNumber": 1,
+  "driverName": "DRIVER1",
+  "registrationNumber": "MP09AB1234",
+  "routeMap": "https://www.example.com/route-map-bus1",
+  "routeTable": [
+    {
+      "serialNumber": 1,
+      "busStop": "SANAWAD STATION",
+      "timing1": "06:10",
+      "timing2": "07:55"
+    },
+    {
+      "serialNumber": 2,
+      "busStop": "BAZAR",
+      "timing1": "06:12",
+      "timing2": "07:58"
+    },
+    {
+      "serialNumber": 3,
+      "busStop": "BUS STAND",
+      "timing1": "06:15",
+      "timing2": "08:00"
+    },
+    {
+      "serialNumber": 4,
+      "busStop": "TRIKON SQUARE",
+      "timing1": "06:18",
+      "timing2": "08:05"
+    },
+    {
+      "serialNumber": 5,
+      "busStop": "MORTAKKA RAILWAY STATION",
+      "timing1": "06:25",
+      "timing2": "08:10"
+    },
+    {
+      "serialNumber": 6,
+      "busStop": "BADWAHA",
+      "timing1": "06:30",
+      "timing2": "08:25"
+    },
+    {
+      "serialNumber": 7,
+      "busStop": "BALWADA",
+      "timing1": "07:05",
+      "timing2": "08:35"
+    },
+    {
+      "serialNumber": 8,
+      "busStop": "CHORAL",
+      "timing1": "07:20",
+      "timing2": "09:10"
+    },
+    {
+      "serialNumber": 9,
+      "busStop": "SIMROL",
+      "timing1": "07:40",
+      "timing2": "09:25"
+    },
+    {
+      "serialNumber": 10,
+      "busStop": "KANAD FATA",
+      "timing1": "07:45",
+      "timing2": "09:30"
+    },
+    {
+      "serialNumber": 11,
+      "busStop": "UMARIA KHEDI",
+      "timing1": "07:50",
+      "timing2": "09:35"
+    },
+    {
+      "serialNumber": 12,
+      "busStop": "MPEB GRID",
+      "timing1": "08:00",
+      "timing2": "09:45"
+    },
+    {
+      "serialNumber": 13,
+      "busStop": "TEJAJI NAGAR",
+      "timing1": "08:05",
+      "timing2": "09:50"
+    },
+    {
+      "serialNumber": 14,
+      "busStop": "KAILOD KARTAL",
+      "timing1": "08:10",
+      "timing2": "09:55"
+    },
+    {
+      "serialNumber": 15,
+      "busStop": "SAGE UNIVERSITY",
+      "timing1": "08:15",
+      "timing2": "10:00"
+    }
+  ]
+}

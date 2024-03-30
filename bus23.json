@@ -1,0 +1,20 @@
+{
+    "busNumber": 23,
+    "driverName": "DRIVER23",
+    "registrationNumber": "MP09OP6789",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "MANGLIYA", "timing1": "07:10", "timing2": "09:00" },
+      { "serialNumber": 2, "busStop": "DEWAS NAKA", "timing1": "07:15", "timing2": "09:05" },
+      { "serialNumber": 3, "busStop": "VIJAY NAGAR", "timing1": "07:20", "timing2": "09:10" },
+      { "serialNumber": 4, "busStop": "LIG", "timing1": "07:25", "timing2": "09:15" },
+      { "serialNumber": 5, "busStop": "PALASIYA", "timing1": "07:35", "timing2": "09:25" },
+      { "serialNumber": 6, "busStop": "GEETA BHAVAN", "timing1": "07:45", "timing2": "09:35" },
+      { "serialNumber": 7, "busStop": "GPO", "timing1": "07:50", "timing2": "09:40" },
+      { "serialNumber": 8, "busStop": "NAVLAKHA", "timing1": "07:45", "timing2": "09:45" },
+      { "serialNumber": 9, "busStop": "BHANWARKUA", "timing1": "08:00", "timing2": "09:50" },
+      { "serialNumber": 10, "busStop": "TEJAJI NAGAR", "timing1": "08:05", "timing2": "09:55" },
+      { "serialNumber": 11, "busStop": "SAGE UNIVERSITY", "timing1": "08:10", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus23"
+  }
+  

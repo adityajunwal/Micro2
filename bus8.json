@@ -1,0 +1,25 @@
+{
+    "busNumber": 8,
+    "driverName": "DRIVER8",
+    "registrationNumber": "MP09GH2345",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "BETMA", "timing1": "07:05", "timing2": "08:50" },
+      { "serialNumber": 2, "busStop": "MACHAL", "timing1": "07:15", "timing2": "09:00" },
+      { "serialNumber": 3, "busStop": "KALARIYA", "timing1": "07:20", "timing2": "09:05" },
+      { "serialNumber": 4, "busStop": "CHOITHRAM NETRALAY", "timing1": "07:25", "timing2": "09:10" },
+      { "serialNumber": 5, "busStop": "NAVDAPANTH", "timing1": "07:27", "timing2": "09:12" },
+      { "serialNumber": 6, "busStop": "JAWAHAR TEKRI", "timing1": "07:30", "timing2": "09:15" },
+      { "serialNumber": 7, "busStop": "NURANI NAGAR", "timing1": "07:32", "timing2": "09:17" },
+      { "serialNumber": 8, "busStop": "SIRPUR", "timing1": "07:35", "timing2": "09:20" },
+      { "serialNumber": 9, "busStop": "CHANDAN NAGAR", "timing1": "07:40", "timing2": "09:25" },
+      { "serialNumber": 10, "busStop": "PHOOTI KOTHI", "timing1": "07:45", "timing2": "09:30" },
+      { "serialNumber": 11, "busStop": "GOPUR SQUARE", "timing1": "07:50", "timing2": "09:35" },
+      { "serialNumber": 12, "busStop": "NARMADA NAGAR SQUARE", "timing1": "07:55", "timing2": "09:40" },
+      { "serialNumber": 13, "busStop": "RETI MANDI", "timing1": "08:00", "timing2": "09:45" },
+      { "serialNumber": 14, "busStop": "IPS", "timing1": "08:02", "timing2": "09:47" },
+      { "serialNumber": 15, "busStop": "SILICON CITY", "timing1": "08:05", "timing2": "09:50" },
+      { "serialNumber": 16, "busStop": "SAGE UNIVERSITY", "timing1": "08:15", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus8"
+  }
+  

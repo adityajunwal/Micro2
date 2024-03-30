@@ -1,0 +1,24 @@
+{
+    "busNumber": 2,
+    "driverName": "DRIVER2",
+    "registrationNumber": "MP09CD5678",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "SADALPUR", "timing1": "06:40", "timing2": "08:15" },
+      { "serialNumber": 2, "busStop": "LEBAD", "timing1": "06:45", "timing2": "08:20" },
+      { "serialNumber": 3, "busStop": "GHATABILLOD", "timing1": "06:55", "timing2": "08:30" },
+      { "serialNumber": 4, "busStop": "INDORAMA", "timing1": "07:00", "timing2": "08:35" },
+      { "serialNumber": 5, "busStop": "JIVANJYOTI", "timing1": "07:05", "timing2": "08:40" },
+      { "serialNumber": 6, "busStop": "SAGOR KUTI", "timing1": "07:10", "timing2": "08:45" },
+      { "serialNumber": 7, "busStop": "SAGOR", "timing1": "07:15", "timing2": "08:50" },
+      { "serialNumber": 8, "busStop": "AKOLIYA", "timing1": "07:25", "timing2": "09:00" },
+      { "serialNumber": 9, "busStop": "EICHER BRIDGE", "timing1": "07:30", "timing2": "09:05" },
+      { "serialNumber": 10, "busStop": "CHATRACHAYA", "timing1": "07:35", "timing2": "09:10" },
+      { "serialNumber": 11, "busStop": "HOUSING BRIDGE", "timing1": "07:40", "timing2": "09:15" },
+      { "serialNumber": 12, "busStop": "PITHAMPUR CHOWPATI", "timing1": "07:45", "timing2": "09:20" },
+      { "serialNumber": 13, "busStop": "MEDI-CAPS", "timing1": "08:00", "timing2": "09:35" },
+      { "serialNumber": 14, "busStop": "RAU SQUARE", "timing1": "08:05", "timing2": "09:40" },
+      { "serialNumber": 15, "busStop": "SAGE UNIVERSITY", "timing1": "08:15", "timing2": "09:50" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus2"
+  }
+  

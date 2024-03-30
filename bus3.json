@@ -1,0 +1,25 @@
+{
+    "busNumber": 3,
+    "driverName": "DRIVER3",
+    "registrationNumber": "MP09GH2345",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "Gajra Gear Chauraha", "timing1": "06:30", "timing2": "08:10" },
+      { "serialNumber": 2, "busStop": "Ujjain Road Pump Square", "timing1": "06:35", "timing2": "08:15" },
+      { "serialNumber": 3, "busStop": "Itawa Trilok Nagar Chauraha", "timing1": "06:40", "timing2": "08:20" },
+      { "serialNumber": 4, "busStop": "Bima Chauraha", "timing1": "06:45", "timing2": "08:25" },
+      { "serialNumber": 5, "busStop": "Mukharji Nagar", "timing1": "06:50", "timing2": "08:30" },
+      { "serialNumber": 6, "busStop": "Vijay Nagar", "timing1": "06:52", "timing2": "08:32" },
+      { "serialNumber": 7, "busStop": "Civil Line", "timing1": "06:55", "timing2": "08:35" },
+      { "serialNumber": 8, "busStop": "Lal Gate", "timing1": "07:00", "timing2": "08:40" },
+      { "serialNumber": 9, "busStop": "Ram Nagar", "timing1": "07:05", "timing2": "08:45" },
+      { "serialNumber": 10, "busStop": "Jawahar Nagar", "timing1": "07:07", "timing2": "08:47" },
+      { "serialNumber": 11, "busStop": "Kela devi", "timing1": "07:10", "timing2": "08:50" },
+      { "serialNumber": 12, "busStop": "Baalgarh Chauraha", "timing1": "07:15", "timing2": "08:55" },
+      { "serialNumber": 13, "busStop": "Vikas Nagar", "timing1": "07:17", "timing2": "08:57" },
+      { "serialNumber": 14, "busStop": "Garg State", "timing1": "07:20", "timing2": "09:00" },
+      { "serialNumber": 15, "busStop": "Dakachiya", "timing1": "07:45", "timing2": "09:25" },
+      { "serialNumber": 16, "busStop": "SAGE UNIVERSITY", "timing1": "08:20", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus3"
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "busNumber": 15,
+    "driverName": "DRIVER15",
+    "registrationNumber": "MP09IJ3456",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "Bhaurasa", "timing1": "06:30", "timing2": "08:10" },
+      { "serialNumber": 2, "busStop": "Awas Nagar Reliance Pump", "timing1": "06:45", "timing2": "08:25" },
+      { "serialNumber": 3, "busStop": "Bhopal Square", "timing1": "06:50", "timing2": "08:30" },
+      { "serialNumber": 4, "busStop": "Bus Stand", "timing1": "06:55", "timing2": "08:35" },
+      { "serialNumber": 5, "busStop": "Ujjain Road Pump Square", "timing1": "07:00", "timing2": "08:40" },
+      { "serialNumber": 6, "busStop": "Sayaji Dwar", "timing1": "07:04", "timing2": "08:44" },
+      { "serialNumber": 7, "busStop": "Jawahar Nagar", "timing1": "07:07", "timing2": "08:47" },
+      { "serialNumber": 8, "busStop": "Kela Devi", "timing1": "07:10", "timing2": "08:50" },
+      { "serialNumber": 9, "busStop": "Baalgarh (Andar)", "timing1": "07:12", "timing2": "08:55" },
+      { "serialNumber": 10, "busStop": "Vikas Nagar", "timing1": "07:17", "timing2": "08:57" },
+      { "serialNumber": 11, "busStop": "Bavadiya", "timing1": "07:20", "timing2": "09:00" },
+      { "serialNumber": 12, "busStop": "Amuna", "timing1": "07:25", "timing2": "09:05" },
+      { "serialNumber": 13, "busStop": "Shipra (Neeche se)", "timing1": "07:35", "timing2": "09:15" },
+      { "serialNumber": 14, "busStop": "Dakachiya (Neeche se)", "timing1": "07:45", "timing2": "09:25" },
+      { "serialNumber": 15, "busStop": "SAGE UNIVERSITY", "timing1": "08:20", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus15"
+  }
+  

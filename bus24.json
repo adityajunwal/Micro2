@@ -1,0 +1,16 @@
+{
+    "busNumber": 24,
+    "driverName": "DRIVER24",
+    "registrationNumber": "MP09KL7890",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "PEDMI", "timing1": "07:15", "timing2": "07:55" },
+      { "serialNumber": 2, "busStop": "KAMPEL", "timing1": "07:30", "timing2": "08:10" },
+      { "serialNumber": 3, "busStop": "PIVDAYE", "timing1": "07:40", "timing2": "08:20" },
+      { "serialNumber": 4, "busStop": "PIPALDA", "timing1": "07:50", "timing2": "08:30" },
+      { "serialNumber": 5, "busStop": "SANAWADIYA", "timing1": "07:55", "timing2": "09:35" },
+      { "serialNumber": 6, "busStop": "DEVGURADIYA", "timing1": "08:00", "timing2": "09:40" },
+      { "serialNumber": 7, "busStop": "SAGE UNIVERSITY", "timing1": "08:20", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus24"
+  }
+  

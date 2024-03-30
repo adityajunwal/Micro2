@@ -1,0 +1,22 @@
+{
+    "busNumber": 7,
+    "driverName": "DRIVER7",
+    "registrationNumber": "MP09EF9012",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "DEPALPUR", "timing1": "06:05", "timing2": "07:50" },
+      { "serialNumber": 2, "busStop": "DAULATABAD", "timing1": "06:30", "timing2": "08:15" },
+      { "serialNumber": 3, "busStop": "BETMA SQUARE", "timing1": "06:50", "timing2": "08:35" },
+      { "serialNumber": 4, "busStop": "SAGORKUTI SQUARE", "timing1": "07:10", "timing2": "08:55" },
+      { "serialNumber": 5, "busStop": "EICHER SQUARE", "timing1": "07:20", "timing2": "09:05" },
+      { "serialNumber": 6, "busStop": "INDUSTRIAL AREA", "timing1": "07:30", "timing2": "09:15" },
+      { "serialNumber": 7, "busStop": "DHANNAD", "timing1": "07:35", "timing2": "09:25" },
+      { "serialNumber": 8, "busStop": "SONWAY", "timing1": "07:45", "timing2": "09:30" },
+      { "serialNumber": 9, "busStop": "BHENSLAAY", "timing1": "07:50", "timing2": "09:35" },
+      { "serialNumber": 10, "busStop": "IIM COLLEGE", "timing1": "07:55", "timing2": "09:40" },
+      { "serialNumber": 11, "busStop": "IIST COLLEGE", "timing1": "08:00", "timing2": "09:45" },
+      { "serialNumber": 12, "busStop": "RAU CIRCLE", "timing1": "08:05", "timing2": "09:50" },
+      { "serialNumber": 13, "busStop": "SAGE UNIVERSITY", "timing1": "08:15", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus7"
+  }
+  

@@ -1,0 +1,22 @@
+{
+    "busNumber": 26,
+    "driverName": "DRIVER26",
+    "registrationNumber": "MP09AB5678",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "Basi Gaon", "timing1": "06:30", "timing2": "08:00" },
+      { "serialNumber": 2, "busStop": "Mend", "timing1": "06:35", "timing2": "08:05" },
+      { "serialNumber": 3, "busStop": "Bargunda", "timing1": "06:50", "timing2": "08:30" },
+      { "serialNumber": 4, "busStop": "Ashapura", "timing1": "07:00", "timing2": "08:40" },
+      { "serialNumber": 5, "busStop": "Berchha", "timing1": "07:20", "timing2": "09:00" },
+      { "serialNumber": 6, "busStop": "Kelod", "timing1": "07:25", "timing2": "09:05" },
+      { "serialNumber": 7, "busStop": "Kodriya", "timing1": "07:35", "timing2": "09:15" },
+      { "serialNumber": 8, "busStop": "Prashanti Hospital", "timing1": "07:40", "timing2": "09:20" },
+      { "serialNumber": 9, "busStop": "Gujjarkheda", "timing1": "07:50", "timing2": "09:30" },
+      { "serialNumber": 10, "busStop": "Harsola", "timing1": "08:00", "timing2": "09:40" },
+      { "serialNumber": 11, "busStop": "Medi-caps", "timing1": "08:05", "timing2": "09:45" },
+      { "serialNumber": 12, "busStop": "Rau-Square", "timing1": "08:10", "timing2": "09:50" },
+      { "serialNumber": 13, "busStop": "SAGE UNIVERSITY", "timing1": "08:20", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus26"
+  }
+  

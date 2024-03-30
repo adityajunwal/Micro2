@@ -1,0 +1,24 @@
+{
+    "busNumber": 10,
+    "driverName": "DRIVER10",
+    "registrationNumber": "MP09AB1234",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "SANGAM NAGAR", "timing1": "07:05", "timing2": "08:45" },
+      { "serialNumber": 2, "busStop": "INDORE WIRE", "timing1": "07:10", "timing2": "08:50" },
+      { "serialNumber": 3, "busStop": "LAXMI BAI SQUARE", "timing1": "07:15", "timing2": "08:55" },
+      { "serialNumber": 4, "busStop": "ZINSI", "timing1": "07:20", "timing2": "09:00" },
+      { "serialNumber": 5, "busStop": "BADA GANPATI", "timing1": "07:25", "timing2": "09:05" },
+      { "serialNumber": 6, "busStop": "RAJ MOHALLA", "timing1": "07:30", "timing2": "09:10" },
+      { "serialNumber": 7, "busStop": "MALGANJ SQUARE", "timing1": "07:35", "timing2": "09:15" },
+      { "serialNumber": 8, "busStop": "MHOW NAKA SQUARE", "timing1": "07:40", "timing2": "09:20" },
+      { "serialNumber": 9, "busStop": "LAL BAGH", "timing1": "07:45", "timing2": "09:25" },
+      { "serialNumber": 10, "busStop": "COLLECTORATE", "timing1": "07:50", "timing2": "09:30" },
+      { "serialNumber": 11, "busStop": "MANIK BAGH", "timing1": "07:55", "timing2": "09:35" },
+      { "serialNumber": 12, "busStop": "TRANSPORT NAGAR", "timing1": "07:58", "timing2": "09:38" },
+      { "serialNumber": 13, "busStop": "BHANWARKUA SQUARE", "timing1": "08:00", "timing2": "09:40" },
+      { "serialNumber": 16, "busStop": "I.T. PARK SQUARE", "timing1": "08:10", "timing2": "09:50" },
+      { "serialNumber": 17, "busStop": "SAGE UNIVERSITY", "timing1": "08:20", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus10"
+  }
+  

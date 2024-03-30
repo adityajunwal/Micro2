@@ -1,0 +1,19 @@
+{
+    "busNumber": 22,
+    "driverName": "DRIVER22",
+    "registrationNumber": "MP09XY7891",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "RAAVGARH", "timing1": "07:10", "timing2": "08:50" },
+      { "serialNumber": 2, "busStop": "DOUBLE CHOUKI", "timing1": "07:15", "timing2": "08:55" },
+      { "serialNumber": 3, "busStop": "BAVALIYA", "timing1": "07:25", "timing2": "09:05" },
+      { "serialNumber": 4, "busStop": "KHUDEL", "timing1": "07:35", "timing2": "09:15" },
+      { "serialNumber": 5, "busStop": "8 MILL", "timing1": "07:40", "timing2": "09:20" },
+      { "serialNumber": 6, "busStop": "7 MILL", "timing1": "07:45", "timing2": "09:25" },
+      { "serialNumber": 7, "busStop": "MALIKHEDI", "timing1": "07:50", "timing2": "09:30" },
+      { "serialNumber": 8, "busStop": "DUDHIYA", "timing1": "07:55", "timing2": "09:35" },
+      { "serialNumber": 9, "busStop": "DEVGURADIYA", "timing1": "08:00", "timing2": "09:40" },
+      { "serialNumber": 10, "busStop": "SAGE UNIVERSITY", "timing1": "08:20", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus22"
+  }
+  

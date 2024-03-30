@@ -1,0 +1,21 @@
+{
+    "busNumber": 12,
+    "driverName": "DRIVER12",
+    "registrationNumber": "MP09ST5678",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "MUSAKHEDI", "timing1": "07:20", "timing2": "09:05" },
+      { "serialNumber": 2, "busStop": "AAZAD NAGAR", "timing1": "07:25", "timing2": "09:10" },
+      { "serialNumber": 3, "busStop": "NAVALAKHA", "timing1": "07:30", "timing2": "09:15" },
+      { "serialNumber": 4, "busStop": "AGRASEN SQUARE", "timing1": "07:35", "timing2": "09:20" },
+      { "serialNumber": 5, "busStop": "SAPNA SANGEETA", "timing1": "07:40", "timing2": "09:25" },
+      { "serialNumber": 6, "busStop": "TOWER SQUARE", "timing1": "07:45", "timing2": "09:30" },
+      { "serialNumber": 7, "busStop": "BHAWARKUA", "timing1": "07:50", "timing2": "09:35" },
+      { "serialNumber": 8, "busStop": "I. T. PARK", "timing1": "07:55", "timing2": "09:40" },
+      { "serialNumber": 9, "busStop": "LIMBODI", "timing1": "08:00", "timing2": "09:45" },
+      { "serialNumber": 10, "busStop": "KASTURBA GRAM", "timing1": "08:05", "timing2": "09:50" },
+      { "serialNumber": 11, "busStop": "TEJAJI NAGAR", "timing1": "08:10", "timing2": "09:55" },
+      { "serialNumber": 12, "busStop": "SAGE UNIVERSITY", "timing1": "08:15", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus12"
+  }
+  

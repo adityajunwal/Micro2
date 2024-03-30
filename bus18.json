@@ -1,0 +1,24 @@
+{
+    "busNumber": 18,
+    "driverName": "DRIVER18",
+    "registrationNumber": "MP09GH5678",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "Nagzhiri", "timing1": "06:25", "timing2": "08:10" },
+      { "serialNumber": 2, "busStop": "Teen Batti Chauraha", "timing1": "06:30", "timing2": "08:15" },
+      { "serialNumber": 3, "busStop": "Tower Chauraha", "timing1": "06:32", "timing2": "08:17" },
+      { "serialNumber": 4, "busStop": "Chamunda Mata", "timing1": "06:35", "timing2": "08:20" },
+      { "serialNumber": 5, "busStop": "Ujjain Bus Stand", "timing1": "06:37", "timing2": "08:22" },
+      { "serialNumber": 6, "busStop": "Dewas Gate", "timing1": "06:40", "timing2": "08:25" },
+      { "serialNumber": 7, "busStop": "Nanakheda", "timing1": "06:45", "timing2": "08:30" },
+      { "serialNumber": 8, "busStop": "Sawer", "timing1": "07:05", "timing2": "08:50" },
+      { "serialNumber": 10, "busStop": "Tarana", "timing1": "07:15", "timing2": "09:00" },
+      { "serialNumber": 11, "busStop": "Dharmpuri", "timing1": "07:25", "timing2": "09:10" },
+      { "serialNumber": 12, "busStop": "Arvindo", "timing1": "07:35", "timing2": "09:20" },
+      { "serialNumber": 16, "busStop": "Vijay Nagar", "timing1": "07:45", "timing2": "09:30" },
+      { "serialNumber": 18, "busStop": "Star Chauraha", "timing1": "07:50", "timing2": "09:35" },
+      { "serialNumber": 19, "busStop": "Kanadiya Bridge", "timing1": "07:55", "timing2": "09:40" },
+      { "serialNumber": 20, "busStop": "SAGE UNIVERSITY", "timing1": "08:15", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus18"
+  }
+  

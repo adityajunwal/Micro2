@@ -1,0 +1,25 @@
+{
+    "busNumber": 17,
+    "driverName": "DRIVER17",
+    "registrationNumber": "MP09IJ9012",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "MR - 10 Square", "timing1": "07:00", "timing2": "08:50" },
+      { "serialNumber": 2, "busStop": "CLERK COLONY", "timing1": "07:02", "timing2": "08:55" },
+      { "serialNumber": 3, "busStop": "BHAGIRATHPURA", "timing1": "07:05", "timing2": "08:58" },
+      { "serialNumber": 4, "busStop": "PARDESHPURA", "timing1": "07:10", "timing2": "09:00" },
+      { "serialNumber": 5, "busStop": "PATNIPURA", "timing1": "07:15", "timing2": "09:05" },
+      { "serialNumber": 6, "busStop": "MALWA MILL", "timing1": "07:20", "timing2": "09:10" },
+      { "serialNumber": 7, "busStop": "RAJKUMAR BRIDGE", "timing1": "07:25", "timing2": "09:15" },
+      { "serialNumber": 8, "busStop": "REGAL SQUARE", "timing1": "07:30", "timing2": "09:20" },
+      { "serialNumber": 9, "busStop": "MADHUMILAN SQUARE", "timing1": "07:35", "timing2": "09:25" },
+      { "serialNumber": 10, "busStop": "M.Y.H.", "timing1": "07:38", "timing2": "09:28" },
+      { "serialNumber": 11, "busStop": "GPO", "timing1": "07:40", "timing2": "09:30" },
+      { "serialNumber": 12, "busStop": "NAVLAKHA SQUARE", "timing1": "07:45", "timing2": "09:35" },
+      { "serialNumber": 13, "busStop": "TEEN IMLI", "timing1": "07:48", "timing2": "09:38" },
+      { "serialNumber": 14, "busStop": "PALDA", "timing1": "07:50", "timing2": "09:40" },
+      { "serialNumber": 15, "busStop": "NEMAWAR BRIDGE", "timing1": "07:55", "timing2": "09:45" },
+      { "serialNumber": 16, "busStop": "SAGE UNIVERSITY", "timing1": "08:10", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus17"
+  }
+  

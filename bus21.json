@@ -1,0 +1,20 @@
+{
+    "busNumber": 21,
+    "driverName": "DRIVER21",
+    "registrationNumber": "MP09EF4567",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "Sundrel Gaon", "timing1": "06:00", "timing2": "07:45" },
+      { "serialNumber": 2, "busStop": "Jakhrot", "timing1": "06:05", "timing2": "07:50" },
+      { "serialNumber": 3, "busStop": "Sundrel fata", "timing1": "06:10", "timing2": "07:55" },
+      { "serialNumber": 4, "busStop": "Prakash Nagar", "timing1": "06:15", "timing2": "08:00" },
+      { "serialNumber": 5, "busStop": "Dhamnod Bus stand", "timing1": "06:18", "timing2": "08:02" },
+      { "serialNumber": 6, "busStop": "SANJAY NAGAR", "timing1": "06:20", "timing2": "08:05" },
+      { "serialNumber": 7, "busStop": "MAHESHWER FATA", "timing1": "06:25", "timing2": "08:10" },
+      { "serialNumber": 8, "busStop": "DUDI RAPAT", "timing1": "06:30", "timing2": "08:15" },
+      { "serialNumber": 9, "busStop": "DUDI VILLAGE", "timing1": "06:35", "timing2": "08:20" },
+      { "serialNumber": 10, "busStop": "RAU", "timing1": "08:05", "timing2": "09:50" },
+      { "serialNumber": 11, "busStop": "SAGE UNIVERSITY", "timing1": "08:15", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus21"
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "busNumber": 5,
+    "driverName": "DRIVER5",
+    "registrationNumber": "MP09XY1234",
+    "routeTable": [
+      { "serialNumber": 1, "busStop": "HASALPUR", "timing1": "06:30", "timing2": "08:10" },
+      { "serialNumber": 2, "busStop": "KAMATPUR", "timing1": "06:40", "timing2": "08:20" },
+      { "serialNumber": 3, "busStop": "KUMTI", "timing1": "06:50", "timing2": "08:30" },
+      { "serialNumber": 4, "busStop": "JANAPAV KUTI", "timing1": "06:55", "timing2": "08:35" },
+      { "serialNumber": 5, "busStop": "KWALI", "timing1": "07:00", "timing2": "08:40" },
+      { "serialNumber": 6, "busStop": "JAMLI", "timing1": "07:10", "timing2": "08:50" },
+      { "serialNumber": 7, "busStop": "GAWLI PALASIYA", "timing1": "07:15", "timing2": "08:55" },
+      { "serialNumber": 8, "busStop": "DREAM LAND", "timing1": "07:20", "timing2": "09:00" },
+      { "serialNumber": 9, "busStop": "HARI FATAK", "timing1": "07:25", "timing2": "09:05" },
+      { "serialNumber": 10, "busStop": "KISHAN GANJ", "timing1": "07:30", "timing2": "09:10" },
+      { "serialNumber": 11, "busStop": "MALVIYA NAGAR", "timing1": "07:40", "timing2": "09:20" },
+      { "serialNumber": 12, "busStop": "PIGDAMBER", "timing1": "08:00", "timing2": "09:40" },
+      { "serialNumber": 13, "busStop": "MEDI-CAPS", "timing1": "08:05", "timing2": "09:45" },
+      { "serialNumber": 14, "busStop": "RAU SQUARE", "timing1": "08:10", "timing2": "09:50" },
+      { "serialNumber": 15, "busStop": "SAGE UNIVERSITY", "timing1": "08:20", "timing2": "10:00" }
+    ],
+    "routeMap": "https://www.example.com/route-map-bus5"
+  }
+  
