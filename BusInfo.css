@@ -89,7 +89,13 @@ th {
     font-size: small;
     background-color: #f2f2f2;
 }
-iframe {
+
+#bus-details {
+    display: flex;
+    gap: 30px;
+}
+
+#map-link {
     height: 96%;
     width: 100%;
 }
@@ -149,5 +155,27 @@ iframe {
     100% {
         opacity: 1;
         transform: translateX(0);
+    }
+}
+
+@media (max-width: 426px) {
+    #bus-info {
+        max-width: 100vw;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: max-content;
+        font-size: small;
+    }
+    #route-table {
+        flex-shrink: inherit;
+        flex-direction: column;
+        overflow: visible;
+    }
+    #map {
+        overflow: auto;
+    }
+    #map-link {
+        height: 50%;
     }
 }
