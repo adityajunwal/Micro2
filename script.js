@@ -1,6 +1,6 @@
 var busNumber = localStorage.getItem('busNumber');
 
-fetch(`BusInfo/${busNumber}.json`)
+fetch(`{busNumber}.json`)
   .then(response => response.json())
   .then(data => {
     
