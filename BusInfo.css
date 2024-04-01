@@ -25,6 +25,9 @@ body {
     color: white;
     animation: slideDown 0.5s ease;
 }
+#bus-info a:hover {
+    scale: 1.1;
+}
 
 #route-table {
     flex-grow: 1;
@@ -128,7 +131,6 @@ th {
 
 @media (max-width: 768px) {
     #route-table {
-        max-height: 100%;
         flex-direction: column;
         overflow: visible;
     }
@@ -161,7 +163,6 @@ th {
 
 @media (max-width: 426px) {
     #bus-info {
-        max-width: 100vw;
         flex-direction: column;
         justify-content: center;
         align-items: center;

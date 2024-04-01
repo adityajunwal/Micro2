@@ -15,74 +15,81 @@
 </head>
 
 <body>
+
     <nav class="welcome">
         <div class="welcome" id="header">
             <img id="logo-image" src="LOGO1.png" alt="">
             <h1>WELCOME TO SAGE BUS NAVIGATOR</h1>
         </div>
         <div class="nav-links">
-            <a href="mailto:aditya@gmail.com" target="_blank">Contacts</a>
+            <a href="mailto:adityakjunwal@gmail.com" target="_blank">Contacts</a>
             <a href="https://github.com/adityajunwal/Micro2" target="_blank">Github</a>
             <a href="" target="_blank">About</a>
         </div>
     </nav>
 
-    <div class="input-container" id="input-container">
-        <form action="BusInfo.html" class="input-container">
-            <label for="bus-number">Select Bus number</label><br>
-            <select name="bus-number" id="bus-number-selector">
-                <option value="bus1">No. 1</option>
-                <option value="bus2">No. 2</option>
-                <option value="bus3">No. 3</option>
-                <option value="bus4">No. 4</option>
-                <option value="bus5">No. 5</option>
-                <option value="bus6">No. 6</option>
-                <option value="bus7">No. 7</option>
-                <option value="bus8">No. 8</option>
-                <option value="bus9">No. 9</option>
-                <option value="bus10">No. 10</option>
-                <option value="bus11">No. 11</option>
-                <option value="bus12">No. 12</option>
-                <option value="bus13">No. 13</option>
-                <option value="bus14">No. 14</option>
-                <option value="bus15">No. 15</option>
-                <option value="bus16">No. 16</option>
-                <option value="bus17">No. 17</option>
-                <option value="bus18">No. 18</option>
-                <option value="bus19">No. 19</option>
-                <option value="bus20">No. 20</option>
-                <option value="bus21">No. 21</option>
-                <option value="bus22">No. 22</option>
-                <option value="bus23">No. 23</option>
-                <option value="bus24">No. 24</option>
-                <option value="bus25">No. 25</option>
-                <option value="bus26">No. 26</option>
-                <option value="bus27">No. 27</option>
-                <option value="bus28">No. 28</option>
-                <option value="bus29">No. 29</option>
-            </select>
+    
+        <div class="input-container" id="input-container">
+            <form action="BusInfo.html" class="input-container">
+                <label for="bus-number">Select Bus number</label><br>
+                <select name="bus-number" id="bus-number-selector">
+                    <option value="bus1">No. 1</option>
+                    <option value="bus2">No. 2</option>
+                    <option value="bus3">No. 3</option>
+                    <option value="bus4">No. 4</option>
+                    <option value="bus5">No. 5</option>
+                    <option value="bus6">No. 6</option>
+                    <option value="bus7">No. 7</option>
+                    <option value="bus8">No. 8</option>
+                    <option value="bus9">No. 9</option>
+                    <option value="bus10">No. 10</option>
+                    <option value="bus11">No. 11</option>
+                    <option value="bus12">No. 12</option>
+                    <option value="bus13">No. 13</option>
+                    <option value="bus14">No. 14</option>
+                    <option value="bus15">No. 15</option>
+                    <option value="bus16">No. 16</option>
+                    <option value="bus17">No. 17</option>
+                    <option value="bus18">No. 18</option>
+                    <option value="bus19">No. 19</option>
+                    <option value="bus20">No. 20</option>
+                    <option value="bus21">No. 21</option>
+                    <option value="bus22">No. 22</option>
+                    <option value="bus23">No. 23</option>
+                    <option value="bus24">No. 24</option>
+                    <option value="bus25">No. 25</option>
+                    <option value="bus26">No. 26</option>
+                    <option value="bus27">No. 27</option>
+                    <option value="bus28">No. 28</option>
+                    <option value="bus29">No. 29</option>
+                </select>
                 <button onclick="saveData()" type="submit" id="submit-button">Submit</button>
-            <!-- <input onclick="saveData()" type="submit" name="" id="submit-button"> -->
-        </form>
-    </div>
 
-    <div class="credits">
-        <table>
-            <h3>A Micro Project 2 by: </h3>
-            <tr>
-                <td>Ayushi Vyas</td>
-                <td>Balchand Dangi</td>
-                <td>Atharva Punasya</td>
-                <td>Aditya Kumar Junwal</td>
-            </tr>
-            <tr>
-                <td>22ADV3CSE0034</td>
-                <td>22ADV3CSE0036</td>
-                <td>22ADV3CSE0032</td>
-                <td>22ADV3CSE0013</td>
-            </tr>
-        </table>
-    </div>
+            </form>
+        </div>
+
+        <div class="credits">
+            <table>
+                <h3>A Micro Project 2 by: </h3>
+                <tr>
+                    <td>Ayushi Vyas</td>
+                    <td>22ADV3CSE0034</td>
+                </tr>
+                <tr>
+                    <td>Balchand Dangi</td>
+                    <td>22ADV3CSE0036</td>
+                </tr>
+                <tr>
+                    <td>Atharva Punasya</td>
+                    <td>22ADV3CSE0032</td>
+                </tr>
+                <tr>
+                    <td>Aditya Kumar Junwal</td>
+                    <td>22ADV3CSE0013</td>
+                </tr>
+            </table>
+        </div>
+
     <script>
         function saveData() {
             var busNumber = document.getElementById('bus-number-selector').value;
